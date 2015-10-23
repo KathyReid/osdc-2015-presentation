@@ -21,3 +21,5 @@ http://insights.dice.com/2014/12/22/using-your-open-source-work-to-get-a-job/
 http://www.cio.com/article/2928658/open-source-development/why-enterprises-embrace-open-source.html
 
 Need to put citations in around the Lakhani article - motivation
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet

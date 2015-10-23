@@ -60,7 +60,7 @@ The fact that you're at a brilliant conference like this already suggests a few 
 
 That's all great, but we need to dig a little deeper to find out how knowing about your character can help you advance your career.
 
-# Motivations
+### Motivations
 
 Different people - different characters - are motivated by different things.
 
@@ -70,16 +70,41 @@ There are two key types of motivators - external motivators - and intrinsic moti
 
 - [ ] need to do a table here which shows the types of external and intrinsic motivators;
 
---
-*Extrinsic motivations*
+**Extrinsic motivations**
 
 Extrinsic motivation means that the things which motivate us come from the outside. The desires to perform a task or reach a goal are driven by an outside source. Examples of extrinsic motivators include things like performance bonuses, other types of monetary rewards, recognition such as employee of the month awards, organised team activities and so on.
 
 Without the external stimulus, you would be less likely to expend the effort or skill required to reach the goal.
 
+_Joke_
+
+If I give you a chocolate, will you put your hand up for me?
+
+**Intrinsic motivations**
+
+Intrinsic motivators are much more complex - they're internally driven. They're much more difficult to control and utilise - but they're also much more powerful.
+
+There's a range of different intrinsic motivators - social acceptance, social status, honour, pride, and importantly I think for this audience - curiosity.
+
+When you think about what gets you up in the morning, what you're really passionate about - these will be clues to what motivates you. The key takeaway is that often, intrinsic motivators are more important in choosing where and how to level up your career than external ones.
+
+_Joke_
+
+So, let's try this again - no chocolate this time.
+
+Who's going to put your hand up, because you want me as a Speaker to believe that you're an amazing audience?
+
+Awesome! My gosh, you're an amazing audience!
+
+#### Flow states as a motivator
+
+Motivation is really interesting when you apply it to open source endeavours - often people are not paid for the contributions - and I mean that broadly - to open source software, communities and events. There's actually been empirical research done into this, and the authors found that one of the key motivators for people contributing to open source projects was something called
+
+REFERENCE:
+Lakhani and Wolf
+
 -
 
-Extrinsic motivation means that the individual's motivational stimuli are coming from outside. In other words, our desires to perform a task are controlled by an outside source. Note that even though the stimuli are coming from outside, the result of performing the task will still be rewarding for the individual performing the task.
 
 
 
@@ -92,8 +117,11 @@ Let's take a look again at some examples from the gaming world.
 
 - [ ] Insert slides here from the different skill trees found in games
 
-Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up.
+Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up. Skill trees articulate which specialisations, groups of specialisations - and importantly - dependencies - you have to have in order to 'unlock' or achieve higher levels - or in our case - more senior roles.
 
+## Classes within open source
+
+So, putting some of these tools together, let's explore what skill trees might look like for different types of roles in open source.
 
 
 
