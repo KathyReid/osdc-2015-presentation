@@ -46,6 +46,8 @@ Real life is very similar.
 
 Any Minecraft fans in the audience? Do you remember the very first time that you played Minecraft? And you didn't chop down enough wood in time, and you didn't build a shelter, and the monsters came and ate you in the middle of the night?
 
+Yeah, real life's kinda like that ;-)
+
 - [ ] graphic for game plan - maybe the image with the dice
 
 That's right - you need a game plan for your career!
@@ -56,8 +58,72 @@ So, how do you find out what sort of character you are?
 
 The fact that you're at a brilliant conference like this already suggests a few things - you're probably highly intelligent, interested in the way that things work, you may have a penchant for freedom, for analysis and deep technical interests.
 
-That's all great
+That's all great, but we need to dig a little deeper to find out how knowing about your character can help you advance your career.
+
+# Motivations
+
+Different people - different characters - are motivated by different things.
+
+There are two key types of motivators - external motivators - and intrinsic motivators
+
+- [ ] need a key slide here around the different types of motivators - the Flickr one with the scrabble letters
+
+- [ ] need to do a table here which shows the types of external and intrinsic motivators;
+
+--
+*Extrinsic motivations*
+
+Extrinsic motivation means that the things which motivate us come from the outside. The desires to perform a task or reach a goal are driven by an outside source. Examples of extrinsic motivators include things like performance bonuses, other types of monetary rewards, recognition such as employee of the month awards, organised team activities and so on.
+
+Without the external stimulus, you would be less likely to expend the effort or skill required to reach the goal.
+
+-
+
+Extrinsic motivation means that the individual's motivational stimuli are coming from outside. In other words, our desires to perform a task are controlled by an outside source. Note that even though the stimuli are coming from outside, the result of performing the task will still be rewarding for the individual performing the task.
 
 
 
-- point about how you have to have a defined career plan to progress
+
+## Skill trees
+
+So, now that you know what sort of character you are, and what motivates you, how do you progress your career?
+
+Let's take a look again at some examples from the gaming world.
+
+- [ ] Insert slides here from the different skill trees found in games
+
+Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up.
+
+
+
+
+
+---
+
+Extrinsic versus intrinsic motivator table
+
+Intrinsic Motivation
+
+Intrinsic motivation means that the individual's motivational stimuli are coming from within. The individual has the desire to perform a specific task, because its results are in accordance with his belief system or fulfills a desire and therefore importance is attached to it.
+
+Our deep-rooted desires have the highest motivational power. Below are some examples:
+
+    Acceptance: We all need to feel that we, as well as our decisions, are accepted by our co-workers.
+    Curiosity: We all have the desire to be in the know.
+    Honor: We all need to respect the rules and to be ethical.
+    Independence: We all need to feel we are unique.
+    Order: We all need to be organized.
+    Power: We all have the desire to be able to have influence.
+    Social contact: We all need to have some social interactions.
+    Social Status: We all have the desire to feel important.
+
+Extrinsic Motivation
+
+Extrinsic motivation means that the individual's motivational stimuli are coming from outside. In other words, our desires to perform a task are controlled by an outside source. Note that even though the stimuli are coming from outside, the result of performing the task will still be rewarding for the individual performing the task.
+
+Extrinsic motivation is external in nature. The most well-known and the most debated motivation is money. Below are some other examples:
+
+    Employee of the month award
+    Benefit package
+    Bonuses
+    Organized activities
