@@ -121,10 +121,14 @@ Lakhani and Wolf
 
 ## Growth mindset
 
+A closely related concept that's particularly helpful for career development is that of having a 'growth mindset'. A lot of the work in this space was undertaken by a researcher called Carol Dweck, and her research examined the difference between having a fixed mindset and a growth mindset. 
+
+SLIDE: Growth mindset vs fixed mindset
 
 
 
-REFERENCE:
+
+REFERENCE: Dweck - Can Personality be changed?
 
 
 
