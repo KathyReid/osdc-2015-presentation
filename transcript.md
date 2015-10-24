@@ -1,4 +1,6 @@
-##Introduction
+## Introduction
+
+SLIDE: Introductory slide
 
 Hi, thanks so much for the introduction, and thank you for choosing to view my
 presentation today - especially when there's so many great Speakers to choose
@@ -6,11 +8,17 @@ from.
 
 Firstly, if there are any hearing impaired audience members, please let me know as I have a transcript of my presentation available if you'd prefer to read along instead.
 
+SLIDE: Parental advisory
+
 The classification for this presentation is Parental Guidance recommended. There will be some coarse language, but that's about it.
+
+SLIDE: Creative Commons
 
 This presentation is licensed under Creative Commons Attribution Share Alike - you're free to take it and make awesome things with it. If that's too restrictive a license for your needs, come have a chat :-)
 
 It's also available on GitHub.
+
+SLIDE: GitHub logo
 
 
 ## Session outcomes
@@ -62,13 +70,13 @@ That's all great, but we need to dig a little deeper to find out how knowing abo
 
 ### Motivations
 
+SLIDE: Motivations
+
 Different people - different characters - are motivated by different things.
 
 There are two key types of motivators - external motivators - and intrinsic motivators
 
-- [ ] need a key slide here around the different types of motivators - the Flickr one with the scrabble letters
-
-- [ ] need to do a table here which shows the types of external and intrinsic motivators;
+SLIDE: External and intrinsic motivators
 
 **Extrinsic motivations**
 
@@ -122,36 +130,3 @@ Just like these different character classes, you have to have a defined plan - a
 ## Classes within open source
 
 So, putting some of these tools together, let's explore what skill trees might look like for different types of roles in open source.
-
-
-
-
----
-
-Extrinsic versus intrinsic motivator table
-
-Intrinsic Motivation
-
-Intrinsic motivation means that the individual's motivational stimuli are coming from within. The individual has the desire to perform a specific task, because its results are in accordance with his belief system or fulfills a desire and therefore importance is attached to it.
-
-Our deep-rooted desires have the highest motivational power. Below are some examples:
-
-    Acceptance: We all need to feel that we, as well as our decisions, are accepted by our co-workers.
-    Curiosity: We all have the desire to be in the know.
-    Honor: We all need to respect the rules and to be ethical.
-    Independence: We all need to feel we are unique.
-    Order: We all need to be organized.
-    Power: We all have the desire to be able to have influence.
-    Social contact: We all need to have some social interactions.
-    Social Status: We all have the desire to feel important.
-
-Extrinsic Motivation
-
-Extrinsic motivation means that the individual's motivational stimuli are coming from outside. In other words, our desires to perform a task are controlled by an outside source. Note that even though the stimuli are coming from outside, the result of performing the task will still be rewarding for the individual performing the task.
-
-Extrinsic motivation is external in nature. The most well-known and the most debated motivation is money. Below are some other examples:
-
-    Employee of the month award
-    Benefit package
-    Bonuses
-    Organized activities
