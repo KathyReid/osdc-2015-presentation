@@ -767,26 +767,30 @@ h1 {
 
 
 
-#VARKtable {
+#VARKtable, #MotivationTable {
 
   border: 2px solid #b0624e;
-  border-collapse: collapse;
   margin: 100px 0 0 0;
   background-color: #cdb68f;
   text-align: center;
 
 }
 
-#VARKtable thead {
+#VARKtable thead, #MotivationTable thead {
   font-weight: bolder;
 }
 
-#VARKtable td, th {
+#VARKtable td, #VARKTable th, #MotivationTable td, #MotivationTable th {
   border: 2px solid #b0624e;
   padding: 2%;
   color: black;
   font-size: 110%;
+  border-collapse: collapse;
+}
 
+#MotivationTable td ul {
+  list-style: square inside;
+  text-align: left;
 }
 
 .attribution {
