@@ -96,6 +96,8 @@ There's a range of different intrinsic motivators - social acceptance, social st
 
 When you think about what gets you up in the morning, what you're really passionate about - these will be clues to what motivates you. The key takeaway is that often, intrinsic motivators are more important in choosing where and how to level up your career than external ones.
 
+If you choose projects and organisations that align with your personal internal drivers, you're much more likely to be motivated and fulfilled - and to put in discretionary effort
+
 _Joke_
 
 So, let's try this again - no chocolate this time.
@@ -106,13 +108,23 @@ Awesome! My gosh, you're an amazing audience!
 
 #### Flow states as a motivator
 
-Motivation is really interesting when you apply it to open source endeavours - often people are not paid for the contributions - and I mean that broadly - to open source software, communities and events. There's actually been empirical research done into this, and the authors found that one of the key motivators for people contributing to open source projects was something called
+Motivation is really interesting when you apply it to open source endeavours - often people are not paid for the contributions - and I mean that broadly - to open source software, communities and events. There's actually been empirical research done into this, and the authors found that one of the key motivators for people contributing to open source projects was something called 'flow state'.
+
+Flow state occurs when you're working on something that's not too easy and not too challenging - the level of the task matches your competency level. Remember when you were first using the shell and it was a bit confusing, but now you can sed and awk like a boss? Well, that's flow state.
+
+SLIDE: Flow State
+
+When you're learning new skills, it's important to keep flow state in mind - it can be really frustrating if you're learning something new and it's difficult - it can really put you off. So, next time you're facing a challenge, thinking about flow state can help you break down the task or the learning objective, and help you understand where your level of competency is at.
 
 REFERENCE:
 Lakhani and Wolf
 
--
+## Growth mindset
 
+
+
+
+REFERENCE:
 
 
 
@@ -127,6 +139,9 @@ Let's take a look again at some examples from the gaming world.
 
 Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up. Skill trees articulate which specialisations, groups of specialisations - and importantly - dependencies - you have to have in order to 'unlock' or achieve higher levels - or in our case - more senior roles.
 
-## Classes within open source
+### Classes within open source
 
 So, putting some of these tools together, let's explore what skill trees might look like for different types of roles in open source.
+
+
+##

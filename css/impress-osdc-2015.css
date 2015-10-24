@@ -4,6 +4,7 @@
   - salmon - #b0624e
   - brown - #55362e
   - hazel - #cdb68f
+  - light hazel - #f7ebd9
   - graphite - #5d4f48
 */
 
@@ -728,6 +729,7 @@ h2 {
   text-shadow: 2px 2px white;
   border-bottom: 1px solid #b0624e;
   padding: 1px;
+  margin: 30px 0 0 0;
 }
 
 
@@ -765,13 +767,21 @@ h1 {
   background-color: #55362e;
 }
 
+#FlowState {
+  background-image: url(../img/Challenge_vs_skill.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #f7ebd9;
+  height: 800px;
+}
+
 
 
 #VARKtable, #MotivationTable {
 
   border: 2px solid #b0624e;
   margin: 100px 0 0 0;
-  background-color: #cdb68f;
+  background-color: #f7ebd9;
   text-align: center;
 
 }
