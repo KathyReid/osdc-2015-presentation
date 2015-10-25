@@ -159,7 +159,7 @@ These skill groups exist in your real life career tree as well, and we'll talk a
 
 SLIDE: Character Skill Tree #2
 
-This one is one of my personal favourites - I've spent way too much time becoming familiar with the skill sets in this game - it's The Secret World. Within this game, you don't have to choose just one specialisation, you get to choose two, and they're often complementary - so you could for instance pistols teamed with elemental magic, or blade skills teamed with blood magic.
+This one is one of my personal favourites - I've spent way too much time becoming familiar with the skill sets in this game - it's The Secret World. Within this game, you don't have to choose just one specialisation, you get to choose two, and they're often complementary - so you could for instance pistols teamed with elemental magic, or blade skills teamed with blood magic. As we'll see, the same is often true of real life.
 
 Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up.
 
@@ -167,7 +167,25 @@ Just like these different character classes, you have to have a defined plan - a
 
 ### Classes within open source
 
-So, putting some of these tools together, let's explore what skill trees might look like for different types of roles in open source.
+So, putting some of these tools together, let's explore what skill trees and character classes might look like.
 
 
-##
+
+
+## Defending your character
+
+## Building up your professional posse
+
+
+- SLIDE: Professional Posse
+
+### Mentorship vs Sponsorship
+
+- [ ] Need to do some research here on mentorship vs sponsorship
+
+
+## Avoiding real life dragons and dungeons
+
+## Reference List
+
+- [ ] Need to include reference list here
