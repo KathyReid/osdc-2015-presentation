@@ -46,7 +46,7 @@ OK, I see
 
 - and what might be a completely unrelated question - how many people here have played a role playing game like dungeons and dragons, or Magic the Gathering, or World of Warcraft, something like that ?
 
-- [ ] need to have the habitrpg character here as a graphic
+SLIDE: Initial HabitRPG character
 
 So, the first thing that you often do in those sorts of games is to work with your character - understand their strengths and weaknesses and then develop a game plan - a strategy - that your character can use to make the most of the environment they find themselves in and the resources they have around them.
 
@@ -56,7 +56,7 @@ Any Minecraft fans in the audience? Do you remember the very first time that you
 
 Yeah, real life's kinda like that ;-)
 
-- [ ] graphic for game plan - maybe the image with the dice
+SLIDE: Game Plan
 
 That's right - you need a game plan for your career!
 
@@ -64,9 +64,13 @@ That's right - you need a game plan for your career!
 
 So, how do you find out what sort of character you are?
 
-The fact that you're at a brilliant conference like this already suggests a few things - you're probably highly intelligent, interested in the way that things work, you may have a penchant for freedom, for analysis and deep technical interests.
+SLIDE: Know thyself
 
-That's all great, but we need to dig a little deeper to find out how knowing about your character can help you advance your career.
+As Matrix fans - and I'm sure there's a few in the audience - might recognise - the Greek message there reads 'Know Thyself' - and by better understanding your own character and makeup, you can build a career path that's right for you.
+
+The fact that you're at a brilliant conference like this already suggests a few things about you - you're probably highly intelligent, interested in the way that things work, you may have a penchant for freedom, for analysis and deep technical interests.
+
+But, we need to dig a little deeper to find out how knowing about your character can help you advance your career.
 
 ### Motivations
 
@@ -94,9 +98,15 @@ Intrinsic motivators are much more complex - they're internally driven. They're 
 
 There's a range of different intrinsic motivators - social acceptance, social status, honour, pride, and importantly I think for this audience - curiosity.
 
-When you think about what gets you up in the morning, what you're really passionate about - these will be clues to what motivates you. The key takeaway is that often, intrinsic motivators are more important in choosing where and how to level up your career than external ones.
+Think about someone you've worked with in the past who took pride in their work - the task they were actually doing may have been small, or trivial, or unimportant in the scheme of things - but they took care to make sure it was done well - pride in workmanship is a motivator.
 
-If you choose projects and organisations that align with your personal internal drivers, you're much more likely to be motivated and fulfilled - and to put in discretionary effort
+Think about a team you've worked in where the morale was high or where there were strong friendships within the team - and it felt great to go into work and just see those people - social acceptance and belonging are key motivators. We see this frequently in open source communities - particularly groups like hacker spaces - where community grows over time. If people don't feel welcomed into a project or a community, and one of their key motivators is social acceptance, they're not going to stick around for very long.
+
+You've probably also worked in a situation where curiosity motivated an outcome - finding a way to build something, figure something out, pull it apart and improve it - driven not by financial reward but by intrinsic curiosity - and here's a recent example;
+
+SLIDE: POTUS congratulating Ahmed for building a clock
+
+When you think about what gets you up in the morning, what you're really passionate about - these will be clues to what motivates you. The key takeaway is that often, intrinsic motivators are more important in choosing where and how to level up your career than external ones. If you choose projects and organisations that align with your personal internal drivers, you're much more likely to be motivated and fulfilled - and to put in discretionary effort to achieve higher skill levels.
 
 _Joke_
 
@@ -121,14 +131,14 @@ Lakhani and Wolf
 
 ## Growth mindset
 
-A closely related concept that's particularly helpful for career development is that of having a 'growth mindset'. A lot of the work in this space was undertaken by a researcher called Carol Dweck, and her research examined the difference between having a fixed mindset and a growth mindset. 
+A closely related concept that's particularly helpful for career development is that of having a 'growth mindset'. A lot of the work in this space was undertaken by a researcher called Carol Dweck, and her research examined the difference between having a fixed mindset and a growth mindset.
 
 SLIDE: Growth mindset vs fixed mindset
 
-
-
-
 REFERENCE: Dweck - Can Personality be changed?
+
+We've probably all worked with someone who regularly says something along the lines of "I'm just not good at (something) - there's no way I'm ever going to be good at it". Because they hold this mindset - they don't even bother trying to learn more about whatever the thing is, rather than at least attempting to learn a little about it. 
+
 
 
 
