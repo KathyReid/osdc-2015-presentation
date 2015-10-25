@@ -118,7 +118,7 @@ Awesome! My gosh, you're an amazing audience!
 
 #### Flow states as a motivator
 
-Motivation is really interesting when you apply it to open source endeavours - often people are not paid for the contributions - and I mean that broadly - to open source software, communities and events. There's actually been empirical research done into this, and the authors found that one of the key motivators for people contributing to open source projects was something called 'flow state'.
+Motivation is really interesting when you apply it to open source endeavours - often people are not paid for the contributions - and I mean that broadly - to open source software, communities and events. There's actually been empirical research done into this, and the authors - Lakhani and Wolf - found that one of the key motivators for people contributing to open source projects was something called 'flow state'.
 
 Flow state occurs when you're working on something that's not too easy and not too challenging - the level of the task matches your competency level. Remember when you were first using the shell and it was a bit confusing, but now you can sed and awk like a boss? Well, that's flow state.
 
@@ -137,21 +137,33 @@ SLIDE: Growth mindset vs fixed mindset
 
 REFERENCE: Dweck - Can Personality be changed?
 
-We've probably all worked with someone who regularly says something along the lines of "I'm just not good at (something) - there's no way I'm ever going to be good at it". Because they hold this mindset - they don't even bother trying to learn more about whatever the thing is, rather than at least attempting to learn a little about it. 
+We've probably all worked with someone who regularly says something along the lines of "I'm just not good at (something) - there's no way I'm ever going to be good at it". Because they hold this mindset - they don't even bother trying to learn more about whatever the thing is, rather than at least attempting to learn a little about it.  
 
+By contrast, people with a growth mindset have the belief that even if they aren't good at something now, that with effort, and practice, and using feedback from constructive criticism that they can get better at something over time - they will actually put the effort into getting better.
 
+So, in thinking about levelling up your open source career, thinking about whether you need to tweak your mindset a little first.
 
-
+SLIDE: HabitRPG level two.
 
 ## Skill trees
 
-So, now that you know what sort of character you are, and what motivates you, how do you progress your career?
+So, now that you know what sort of character you are, and what motivates you, and how to strive to have a growth mindset, we can start to tackle the Game Plan side of things.
 
-Let's take a look again at some examples from the gaming world.
+So, what can RPGs teach us about this? Let's take a look again at some examples from the gaming world.
 
-- [ ] Insert slides here from the different skill trees found in games
+SLIDE: Character Skill Tree #1
 
-Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up. Skill trees articulate which specialisations, groups of specialisations - and importantly - dependencies - you have to have in order to 'unlock' or achieve higher levels - or in our case - more senior roles.
+We can see here a very classic sort of skill tree - you can go in one of four basic directions with your abilities, and within that direction there are individual skill sets or skill groups that have to be mastered to advance to the next level.
+
+These skill groups exist in your real life career tree as well, and we'll talk a little bit about what they look like shortly.
+
+SLIDE: Character Skill Tree #2
+
+This one is one of my personal favourites - I've spent way too much time becoming familiar with the skill sets in this game - it's The Secret World. Within this game, you don't have to choose just one specialisation, you get to choose two, and they're often complementary - so you could for instance pistols teamed with elemental magic, or blade skills teamed with blood magic.
+
+Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up.
+
+ Skill trees articulate which specialisations, groups of specialisations - and importantly - dependencies - you have to have in order to 'unlock' or achieve higher levels - or in our case - more senior roles.
 
 ### Classes within open source
 
