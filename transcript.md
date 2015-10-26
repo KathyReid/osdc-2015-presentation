@@ -199,16 +199,47 @@ These are often the most difficult group of skills to acquire - and they deal wi
 
 So, putting some of these tools together, let's explore what skill trees and character classes might look like in the open source space.
 
+These classes aren't perfect - they're a starting point - and over time what I'm hoping to do with these is iterate them into an artefact that can be used to help those who are newer to open source communities plan their career directions - and of course, open source them.
+
+## Kernel hacker
+
+SLIDE: Kernel hacker
+
+This lady has deep internal knowledge of Linux systems - she's able to reverse engineer drivers, knows how to handle memory well, is able to figure out efficient and effective methods of storage and file system. In order to succeed, she'll need strong programming skills in a low level language like C.
+
+Conceptually, she will need to have a strong grasp of both reverse engineering and root cause analysis / component failure impact analysis and so on.
+
+On the interpersonal side, this sort of role is likey to be challenging in terms of the community it deals with - and the interpersonal skills you would need here include strong resilience, and ability to engage with a strongly opinionated community.
+
+SLIDE: Front end developer
+
+This lady is dynamite with D3. She can whip up some HTML on the smell of an oily rag. She knows when to Ember, when to React, and when to Angular, and when to realise not to use them all together. In one minified file, goddamit!
+
+Conceptually, she will need great design skills, user experience skills. Important, project management is very important for many different classes of open source.
+
+Interpersonally, she'll need great empathy and interviewing techniques, so that she's able to accurately elicit requirements from her clients.
 
 
-
+- [ ] Need to add the other classes in here
 
 
 ## Defending your character
 
 ## Building up your professional posse
 
-- SLIDE: Professional Posse
+So, once you know what sort of character you are, what motivates you, what sort of character class suits you best, and what technical, conceptual and interpersonal skills you need to level up, you then need to think about something called SOCIAL CAPITAL.
+
+- SLIDE: Professional posse
+
+Social capital is the intangible value you create and leverage through your professional and personal networks. Research - and again I have references - has shown that professionals who have strong relationships and networks are promoted more frequently than those who have smaller professional networks. The statistics vary, but the consensus is that many job openings are not openly advertised - they're recruited from what's called a passive or hidden market. And how are candidates on the passive market found - through their relationships and connections - through social capital.
+
+The thing to remember is that networking isn't a dirty word. Think of it like you would any one of your other professional skills like C, or javascript, or arduino. Networking is a skill, and by practicing it, you can get better at it. It doesn't mean that you need to be inauthentic, or you that you need to be a person when deep down you're not. What it does mean is that you have a genuine curiosity about what people do, how they do it, how you can learn from it, but also how you can add value to what they do. Think win / win or mutual value.
+
+There's about 100-200 people in the room at the moment, yeah? How many people when you walked into the room introduced yourself to someone you didn't know? And how many made an introduction between two people who you knew, but who didn't know each other? Bonus XP for that! These are all examples of social capital. So, be a capitalist - a social capitalist!
+
+REFERENCE: Seibert et al
+
+In the room today is likely to be someone who will at some point in your career be able to offer you a new opportunity. And remember from the piece I've just covered - every interaction is a job interview. Makes you think differently about the conference, doesn't it?
 
 ### Mentorship vs Sponsorship
 
@@ -217,6 +248,8 @@ So, putting some of these tools together, let's explore what skill trees and cha
 
 
 - [ ] Need to do some research here on mentorship vs sponsorship
+
+Social capital
 
 
 ## Avoiding real life dragons and dungeons
