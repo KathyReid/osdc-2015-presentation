@@ -175,11 +175,31 @@ One of the most generic approaches to building skillsets is the one shown here -
 
 SLIDE: Technical, interpersonal and conceptual overview
 
+And you can see from this diagram that it's really the overlap of these three areas that provides the most robust set of complementary skills - and indeed to grow your career you'll need to ensure that you develop skills from each of the three areas.
 
+Generally speaking, the more senior you are in your career development, the less that technical specialisations count, and the more that your interpersonal and conceptual skillsets carry weight instead.
+
+And here are some of the examples of skills that fit into the three different generic categories.
+
+SLIDE: Technical, interpersonal and conceptual detail table
+
+- Technical
+
+These are the specialist skills - often related to specific products or platforms. They often require a high level of detailed knowledge about specific systems and how they work. They tend to be acquired in individual settings, and can often be self-taught or learned on the job.
+
+- Conceptual
+
+These tend to be thnking skills - and often deal with frameworks, lifecycles, processes, maturity models - and how they touch each other, and relate back to strategies and objectives. They tend to be acquired in group and organisational settings, and often require formal training, and also mentoring and coaching.
+
+- Interpersonal
+
+These are often the most difficult group of skills to acquire - and they deal with not only with the management of self, but with building, growing, negotiating and leveraging networks of relationships. They're often the most overlooked group of skills. They generally require mentoring, coaching, and significant investment to grow.
 
 ### Classes within open source
 
-So, putting some of these tools together, let's explore what skill trees and character classes might look like.
+So, putting some of these tools together, let's explore what skill trees and character classes might look like in the open source space.
+
+
 
 
 
