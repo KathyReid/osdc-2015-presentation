@@ -802,7 +802,7 @@ h1 {
 
 
 
-#VARKtable, #MotivationTable, #MindsetTable {
+#VARKtable, #MotivationTable, #MindsetTable, #TechPersonalConcepttable {
 
   border: 2px solid #b0624e;
   margin: 100px 0 0 0;
@@ -811,11 +811,11 @@ h1 {
 
 }
 
-#VARKtable thead, #MotivationTable thead, #MindsetTable thead {
+#VARKtable thead, #MotivationTable thead, #MindsetTable thead, #TechPersonalConcepttable thead {
   font-weight: bolder;
 }
 
-#VARKtable td, #VARKTable th, #MotivationTable td, #MotivationTable th, #MindsetTable th, #MindsetTable td {
+#VARKtable td, #VARKTable th, #MotivationTable td, #MotivationTable th, #MindsetTable th, #MindsetTable td, #TechPersonalConcepttable th, #TechPersonalConcepttable td {
   border: 2px solid #b0624e;
   padding: 2%;
   color: black;
@@ -823,7 +823,7 @@ h1 {
   border-collapse: collapse;
 }
 
-#MotivationTable td ul {
+#MotivationTable td ul, #TechPersonalConcepttable td ul {
   list-style: square inside;
   text-align: left;
 }

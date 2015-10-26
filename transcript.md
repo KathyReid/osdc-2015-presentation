@@ -145,7 +145,7 @@ We've probably all worked with someone who regularly says something along the li
 
 By contrast, people with a growth mindset have the belief that even if they aren't good at something now, that with effort, and practice, and using feedback from constructive criticism that they can get better at something over time - they will actually put the effort into getting better.
 
-So, in thinking about levelling up your open source career, thinking about whether you need to tweak your mindset a little first.
+So, in thinking about levelling up your open source career, think about whether you need to tweak your mindset a little first.
 
 SLIDE: HabitRPG level two.
 
@@ -163,11 +163,19 @@ These skill groups exist in your real life career tree as well, and we'll talk a
 
 SLIDE: Character Skill Tree #2
 
-This one is one of my personal favourites - I've spent way too much time becoming familiar with the skill sets in this game - it's The Secret World. Within this game, you don't have to choose just one specialisation, you get to choose two, and they're often complementary - so you could for instance pistols teamed with elemental magic, or blade skills teamed with blood magic. As we'll see, the same is often true of real life.
+This one is one of my personal favourites - I've spent way too much time becoming familiar with the skill sets in this game - it's The Secret World. Within this game, you don't have to choose just one specialisation, you get to choose two, and they're often complementary - so you could for instance have pistols teamed with elemental magic, or blade skills teamed with blood magic. As we'll see, the same is often true of real life. Well, not the blade skills, or the elemental magic part - usually - I make an exception for jQuery - but having complementary skillsets which are greater than the sum of their parts.
 
 Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up.
 
  Skill trees articulate which specialisations, groups of specialisations - and importantly - dependencies - you have to have in order to 'unlock' or achieve higher levels - or in our case - more senior roles.
+
+### A framework for open source skillsets
+
+One of the most generic approaches to building skillsets is the one shown here - where you have technical, conceptual and interpersonal pieces overlapping.
+
+SLIDE: Technical, interpersonal and conceptual overview
+
+
 
 ### Classes within open source
 
