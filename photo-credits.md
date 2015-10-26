@@ -11,6 +11,14 @@ Nichole Burrows
 Motivations
 https://www.flickr.com/photos/130132803@N07/18961060922/
 
+Deborah Bryant
+FOSDEM_Exhibits_day2 (37 of 38).jpg
+
+Karen Sandler high-five'n Leslie Hawthorn (and everyone else who fits the bill) for using Gnome Desktop (me too!).
+
+https://flic.kr/p/qe8Skt
+
+
 
 
 http://kotaku.com/5978575/the-hidden-beauty-of-skill-trees

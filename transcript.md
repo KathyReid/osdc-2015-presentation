@@ -10,7 +10,7 @@ Firstly, if there are any hearing impaired audience members, please let me know 
 
 SLIDE: Parental advisory
 
-The classification for this presentation is Parental Guidance recommended. There will be some coarse language, but that's about it.
+The classification for this presentation is Parental Guidance recommended. There will be some possibly coarse language, but that's about it.
 
 SLIDE: Creative Commons
 
@@ -82,9 +82,9 @@ There are two key types of motivators - external motivators - and intrinsic moti
 
 SLIDE: External and intrinsic motivators
 
-**Extrinsic motivations**
+**External motivations**
 
-Extrinsic motivation means that the things which motivate us come from the outside. The desires to perform a task or reach a goal are driven by an outside source. Examples of extrinsic motivators include things like performance bonuses, other types of monetary rewards, recognition such as employee of the month awards, organised team activities and so on.
+External motivation means that the things which motivate us come from the outside. The desires to perform a task or reach a goal are driven by an outside source. Examples of extrinsic motivators include things like performance bonuses, other types of monetary rewards, recognition such as employee of the month awards, organised team activities and so on.
 
 Without the external stimulus, you would be less likely to expend the effort or skill required to reach the goal.
 
@@ -106,7 +106,7 @@ You've probably also worked in a situation where curiosity motivated an outcome 
 
 SLIDE: POTUS congratulating Ahmed for building a clock
 
-When you think about what gets you up in the morning, what you're really passionate about - these will be clues to what motivates you. The key takeaway is that often, intrinsic motivators are more important in choosing where and how to level up your career than external ones. If you choose projects and organisations that align with your personal internal drivers, you're much more likely to be motivated and fulfilled - and to put in discretionary effort to achieve higher skill levels.
+When you think about what gets you up in the morning, what you're really passionate about - these will be clues to what motivates you. The key takeaway is that often, intrinsic motivators are more important in choosing where and how to level up your career than external ones. If you choose projects and organisations and teams that align with your personal internal drivers, you're much more likely to be motivated and fulfilled - and to put in discretionary effort to achieve higher skill levels.
 
 _Joke_
 
@@ -118,13 +118,17 @@ Awesome! My gosh, you're an amazing audience!
 
 #### Flow states as a motivator
 
-Motivation is really interesting when you apply it to open source endeavours - often people are not paid for the contributions - and I mean that broadly - to open source software, communities and events. There's actually been empirical research done into this, and the authors - Lakhani and Wolf - found that one of the key motivators for people contributing to open source projects was something called 'flow state'.
+Motivation is really interesting when you apply it to open source endeavours - often people are not paid for the contributions - and I mean that in the broadest sense - to open source software, communities and events. There's actually been empirical research done into this, and the authors - Lakhani and Wolf - found that one of the key motivators for people contributing to open source projects was something called 'flow state'.
 
 Flow state occurs when you're working on something that's not too easy and not too challenging - the level of the task matches your competency level. Remember when you were first using the shell and it was a bit confusing, but now you can sed and awk like a boss? Well, that's flow state.
 
+Over time, you might find that using these tools is so easy for you that to do so will result in boredom - you need something more challenging to keep you engaged - and in 'flow state'.
+
 SLIDE: Flow State
 
-When you're learning new skills, it's important to keep flow state in mind - it can be really frustrating if you're learning something new and it's difficult - it can really put you off. So, next time you're facing a challenge, thinking about flow state can help you break down the task or the learning objective, and help you understand where your level of competency is at.
+When you're learning new skills, it's important to keep flow state in mind - it can be really frustrating if you're learning something new and it's difficult - it can really put you off. So, next time you're facing a challenge, thinking about where you are in the Flow State Diagram  can help you break down the task or the learning objective, and help you understand where your level of competency is at.
+
+If you'd like to learn more about these topics, there's a full reference list at the end of my presentation.
 
 REFERENCE:
 Lakhani and Wolf
@@ -137,7 +141,7 @@ SLIDE: Growth mindset vs fixed mindset
 
 REFERENCE: Dweck - Can Personality be changed?
 
-We've probably all worked with someone who regularly says something along the lines of "I'm just not good at (something) - there's no way I'm ever going to be good at it". Because they hold this mindset - they don't even bother trying to learn more about whatever the thing is, rather than at least attempting to learn a little about it.  
+We've probably all worked with someone who regularly says something along the lines of "I'm just not good at (something - for argument's sake, let's say coding) - there's no way I'm ever going to be good at it". Because they hold this mindset, they don't even bother trying to learn more about whatever the thing is, rather than at least attempting to learn a little about it.  
 
 By contrast, people with a growth mindset have the belief that even if they aren't good at something now, that with effort, and practice, and using feedback from constructive criticism that they can get better at something over time - they will actually put the effort into getting better.
 
@@ -176,10 +180,13 @@ So, putting some of these tools together, let's explore what skill trees and cha
 
 ## Building up your professional posse
 
-
 - SLIDE: Professional Posse
 
 ### Mentorship vs Sponsorship
+
+
+- SLIDE: Mentorship vs Sponsorship
+
 
 - [ ] Need to do some research here on mentorship vs sponsorship
 
