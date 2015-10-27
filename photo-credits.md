@@ -26,6 +26,9 @@ Out for a drink after a user group meeting
 https://flic.kr/p/8f76DS
 
 
+http://www.forbes.com/sites/work-in-progress/2013/01/28/7-ways-to-bounce-back-from-career-mistakes-missteps-and-misunderstandings/
+
+
 
 
 http://kotaku.com/5978575/the-hidden-beauty-of-skill-trees

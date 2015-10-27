@@ -133,6 +133,8 @@ If you'd like to learn more about these topics, there's a full reference list at
 REFERENCE:
 Lakhani and Wolf
 
+---
+
 ## Growth mindset
 
 A closely related concept that's particularly helpful for career development is that of having a 'growth mindset'. A lot of the work in this space was undertaken by a researcher called Carol Dweck, and her research examined the difference between having a fixed mindset and a growth mindset.
@@ -148,6 +150,15 @@ By contrast, people with a growth mindset have the belief that even if they aren
 So, in thinking about levelling up your open source career, think about whether you need to tweak your mindset a little first.
 
 SLIDE: HabitRPG level two.
+
+---
+
+## Learning styles
+
+
+SLIDE: VARK Styles
+
+---
 
 ## Skill trees
 
@@ -168,6 +179,8 @@ This one is one of my personal favourites - I've spent way too much time becomin
 Just like these different character classes, you have to have a defined plan - a skill tree - in order to level up.
 
  Skill trees articulate which specialisations, groups of specialisations - and importantly - dependencies - you have to have in order to 'unlock' or achieve higher levels - or in our case - more senior roles.
+
+ ---
 
 ### A framework for open source skillsets
 
@@ -201,6 +214,8 @@ So, putting some of these tools together, let's explore what skill trees and cha
 
 These classes aren't perfect - they're a starting point - and over time what I'm hoping to do with these is iterate them into an artefact that can be used to help those who are newer to open source communities plan their career directions - and of course, open source them.
 
+---
+
 ## Kernel hacker
 
 SLIDE: Kernel hacker
@@ -210,6 +225,10 @@ This lady has deep internal knowledge of Linux systems - she's able to reverse e
 Conceptually, she will need to have a strong grasp of both reverse engineering and root cause analysis / component failure impact analysis and so on.
 
 On the interpersonal side, this sort of role is likey to be challenging in terms of the community it deals with - and the interpersonal skills you would need here include strong resilience, and ability to engage with a strongly opinionated community.
+
+---
+
+## Front end developer
 
 SLIDE: Front end developer
 
@@ -223,9 +242,12 @@ Interpersonally, she'll need great empathy and interviewing techniques, so that 
 - [ ] Need to add the other classes in here
 
 
+---
+
+
 ## Defending your character
 
-So, now that you know what sort of character you are, and you have an idea about the sort of skill tree that you'll be following for your career path, you need to give some thought to what sort professional reputation you want to uphold. Do you want to be known as honourable? diligent? an obnoxious but occasionally useful genious? The choice is yours.
+So, now that you know what sort of character you are, and you have an idea about the sort of skill tree that you'll be following for your career path, you need to give some thought to what sort of professional reputation you want to uphold. Do you want to be known as honourable? diligent? an obnoxious but occasionally useful genious? The choice is yours.
 
 In RPG parlance, this is kind of like figuring out what sort of alignment you hold - are you chaotic good - kinda disorganised but generally good to be around - are you lawful evil - you totally understand the system, but also how to exploit it.
 
@@ -269,11 +291,14 @@ How many people have had a mentor?
 
 Think about this from the viewpoint also of the Sponsor - sponsorship is a whole another level above Mentoring, so the level of investment that the Sponsor needs to make is a whole another level as well - so if you're seeking a Sponsor, really think about the commitment they're going to be making in you.
 
-
 - REFERENCE: Friday et al
 
-
 ## Avoiding real life dragons and dungeons
+
+
+
+
+### Putting it all together
 
 ## Reference List
 
