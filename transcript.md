@@ -274,7 +274,6 @@ Ideally, what I'd like to see over time is a standard way of representing open s
 
 ---
 
-
 ## Defending your character
 
 So, now that you know what sort of character you are, and you have an idea about the sort of skill tree that you'll be following for your career path, you need to give some thought to what sort of professional reputation you want to uphold. Do you want to be known as honourable? diligent? an obnoxious but occasionally useful genious? The choice is yours.
@@ -286,6 +285,8 @@ SLIDE: Donna Benjamin
 If somebody puts your photo up at a conference and asks, is this lady going to get the job done - are they going to say 'hell yes'?!
 
 Hell yes!
+
+Remember, every interaction you have with someone is an opportunity to enforce your professional reputation - or lose it.
 
 Even though you may have a well thought out career plan, things don't always go to plan. In your career, you're likely to have setbacks - failures, scandals, negative press coverage by rubbish journalists. The way to recover from such set backs is not to be deterred. Stick to your character, look for opportunities to again prove your value, and move forward.
 
@@ -327,13 +328,38 @@ Think about this from the viewpoint also of the Sponsor - sponsorship is a whole
 
 - REFERENCE: Friday et al
 
-## Avoiding real life dragons and dungeons
-
-
-
-
 ### Putting it all together
+
+So, in summary, if you're looking to level up your open source career, you need to think about;
+
+* having a game plan for your career
+* understanding your motivations
+* understanding how you learn best
+* understanding what sort of archetype or pattern you want to adopt
+* planning out a skill tree
+* building your professional network
+* and gaining a mentor or sponsor
+
+Thank you for listening today, and I'd now like to award you all 10 XP!
+Level up :-)
+
+SLIDE: Joind.in feedback
 
 ## Reference List
 
-- [ ] Need to include reference list here
+SLIDE: Reference list
+
+Dweck, C. S. (2008). Can Personality Be Changed? The Role of Beliefs in Personality and Change. Current Directions in Psychological Science (Wiley-Blackwell), 17(6), 391–394.
+
+Fagerholm, F., Sanchez Guinea, A., Borenstein, J., & Munch, J. (2014). Onboarding in Open Source Projects. IEEE Software, 31(6), 54–61.
+Forret, M. L., & Dougherty, T. W. (2001). Correlates of Networking Behavior for Managerial and Professional Employees. Group & Organization Management, 26(3), 283.
+
+Friday, E., Friday, S. S., & Green, A. L. (2004). A reconceptualization of mentoring and sponsoring. Management Decision, 42(5), 628–644. http://doi.org/10.1108/00251740410538488
+
+Leite WL, Svinicki M, & Shi Y. (2010). Attempted validation of the scores of the VARK: learning styles inventory with multitrait-multimethod confirmatory factor analysis models. Educational & Psychological Measurement, 70(2), 323–339 17p. http://doi.org/10.1177/0013164409344507
+
+Linehan, M. (2001). Networking for Female Managers’ Career Development: Empirical Evidence. Journal of Management Development, 20(10), 823–29.
+
+Seibert, S. E., Kraimer, M. L., & Liden, R. C. (2001). A social capital theory of career success. Academy of Management Journal, 44(2), 219–237.
+
+Sinclaire, J. K. . (2012). VARK LEARNING STYLE AND STUDENT SATISFACTION WITH TRADITIONAL AND ONLINE COURSES. International Journal of Education Research, 7(1), 77–89.
