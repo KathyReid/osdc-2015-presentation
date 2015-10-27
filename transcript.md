@@ -253,13 +253,24 @@ In the room today is likely to be someone who will at some point in your career 
 
 ### Mentorship vs Sponsorship
 
-One thing I'd like to quickly mention on the topic of social capital is the difference between mentoring and spon
 - SLIDE: Mentorship vs Sponsorship
 
+One thing I'd like to quickly mention on the topic of social capital is the difference between mentoring and Sponsorship.
 
-- [ ] Need to do some research here on mentorship vs sponsorship
+How many people here have had a mentor in the past? And did you find that process useful? Help you navigate an organisation, introduce you to a project and how it works. Great!
 
-Social capital
+So, mentorship is great, and I don't for a second want to detract from the practice of mentoring, or being a mentee. But what I would like everyone to think about is the difference between mentorship and sponsorship.
+
+A mentor introduces you to the organisation or to the project. A sponsor introduces you to the CEO of the organisation or the project lead - and makes sure that they know your name. A sponsor opens doors for you, makes you aware of learning and development opportunities, and ensures you are considered for promotion.
+
+Sponsorship is a whole another level above mentorship.
+
+How many people have had a mentor?
+
+Think about this from the viewpoint also of the Sponsor - sponsorship is a whole another level above Mentoring, so the level of investment that the Sponsor needs to make is a whole another level as well - so if you're seeking a Sponsor, really think about the commitment they're going to be making in you.
+
+
+- REFERENCE: Friday et al
 
 
 ## Avoiding real life dragons and dungeons
