@@ -837,3 +837,10 @@ h1 {
   top: 80%;
 
 }
+
+.csl-entry {
+  font-size: 90%;
+  line-height: 130%;
+  padding: 10px 0 0 0;
+  border-bottom: 1px solid white;
+}

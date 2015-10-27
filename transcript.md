@@ -158,6 +158,20 @@ SLIDE: HabitRPG level two.
 
 SLIDE: VARK Styles
 
+So, now that you have a growth mindset, and you really do want to learn, and grow and upskill, what's the best way to do that?
+
+Different people have different learning styles, and VARK is a good way to explore what learning style suits you best. There's many different questionnaires you can do online for VARK - a quick Google search wil unearth them, so I won't cover that here.
+
+The key takeaways though are that understanding your preferred learning style means that you can then better understand which courses, and learning materials, you're going to get the most out of.
+
+* Visual - visual learners like charts and graphs - they absorb information visually. Videos, diagrams, animations - these are the go to tools for visual learners.
+
+* Aural - aural learners learn by listening, and by speaking things through. They will be big fans of pod casts, and of listening material.
+
+* Reading and writing - these learners absorb information through both reading and writing. They will be avid readers and note-takers - and I can see a few Reading learners in the audience today.
+
+* Kinesthetic learners learn by doing, through moving and undertaking the action or the skill. Often people who are very good at sports, or outdoor activities are kinesthetic learners.
+
 ---
 
 ## Skill trees
@@ -238,9 +252,25 @@ Conceptually, she will need great design skills, user experience skills. Importa
 
 Interpersonally, she'll need great empathy and interviewing techniques, so that she's able to accurately elicit requirements from her clients.
 
+---
 
-- [ ] Need to add the other classes in here
+## Data scientist
 
+This lady is 150% awesome, with a very high confidence level. Skilled at both statistics and visualisation, she knows programming languages and tools for statistical analysis and vistualisation.
+
+Conceptually, she will have an understanding of different statistical processes, and when each of them should be applied.
+
+Interpersonally, she'll be skilled at building narratives around datasets, and using these narratives to influence decision making
+
+---
+
+## Other skill sets
+
+I could go on in this vein for a while - with archetypes such as hardware hacker, community leader, full stack developer, sysadmin and so on, but I'll stop there for now.
+
+The key takeaway here is that you need to understand what sort of general shape your career will have, and which different technical, interpersonal and conceptual skills you need to acquire to get to the next level.
+
+Ideally, what I'd like to see over time is a standard way of representing open source career archetypes - as a kind of planning tool. Tools such as the Skills For the Information Age take an enteprise-wide view of the IT skills needed to successfully run an IT organisation, and I'd like to see something like that developed to help support open source career development.
 
 ---
 
@@ -256,6 +286,10 @@ SLIDE: Donna Benjamin
 If somebody puts your photo up at a conference and asks, is this lady going to get the job done - are they going to say 'hell yes'?!
 
 Hell yes!
+
+Even though you may have a well thought out career plan, things don't always go to plan. In your career, you're likely to have setbacks - failures, scandals, negative press coverage by rubbish journalists. The way to recover from such set backs is not to be deterred. Stick to your character, look for opportunities to again prove your value, and move forward.
+
+
 
 ## Building up your professional posse
 
