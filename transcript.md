@@ -225,6 +225,16 @@ Interpersonally, she'll need great empathy and interviewing techniques, so that 
 
 ## Defending your character
 
+So, now that you know what sort of character you are, and you have an idea about the sort of skill tree that you'll be following for your career path, you need to give some thought to what sort professional reputation you want to uphold. Do you want to be known as honourable? diligent? an obnoxious but occasionally useful genious? The choice is yours.
+
+In RPG parlance, this is kind of like figuring out what sort of alignment you hold - are you chaotic good - kinda disorganised but generally good to be around - are you lawful evil - you totally understand the system, but also how to exploit it.
+
+SLIDE: Donna Benjamin
+
+If somebody puts your photo up at a conference and asks, is this lady going to get the job done - are they going to say 'hell yes'?!
+
+Hell yes!
+
 ## Building up your professional posse
 
 So, once you know what sort of character you are, what motivates you, what sort of character class suits you best, and what technical, conceptual and interpersonal skills you need to level up, you then need to think about something called SOCIAL CAPITAL.
@@ -243,7 +253,7 @@ In the room today is likely to be someone who will at some point in your career 
 
 ### Mentorship vs Sponsorship
 
-
+One thing I'd like to quickly mention on the topic of social capital is the difference between mentoring and spon
 - SLIDE: Mentorship vs Sponsorship
 
 

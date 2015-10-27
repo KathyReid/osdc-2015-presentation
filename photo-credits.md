@@ -19,6 +19,13 @@ Karen Sandler high-five'n Leslie Hawthorn (and everyone else who fits the bill) 
 https://flic.kr/p/qe8Skt
 
 
+Stewart Smith
+Donna
+
+Out for a drink after a user group meeting
+https://flic.kr/p/8f76DS
+
+
 
 
 http://kotaku.com/5978575/the-hidden-beauty-of-skill-trees
