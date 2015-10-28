@@ -29,7 +29,7 @@ Well, aside from the guaranteed 10XP, you have the chance to pick up a Rare or e
 
 We'll spend some time exploring how to learn more about what your superpowers are, and how you can grow new ones. We'll learn not just about the technical repertoire a kick-ass open source ninja has, but the conceptual and interpersonal skills required to level up your career. We'll look at skill trees so that you can build a path to follow in your professional development.
 
-Pretty cruisy, right? But, dragons exist in real life too, and we'll explore tips and techniques to use when you suddenly find yourself at the bottom of a workplace dungeon.
+I'll talk a little bit about social capital, what it is, and how it influences your career.
 
 ## Game Plan
 
@@ -270,7 +270,7 @@ I could go on in this vein for a while - with archetypes such as hardware hacker
 
 The key takeaway here is that you need to understand what sort of general shape your career will have, and which different technical, interpersonal and conceptual skills you need to acquire to get to the next level.
 
-Ideally, what I'd like to see over time is a standard way of representing open source career archetypes - as a kind of planning tool. Tools such as the Skills For the Information Age take an enteprise-wide view of the IT skills needed to successfully run an IT organisation, and I'd like to see something like that developed to help support open source career development.
+Ideally, what I'd like to see over time is a standard way of representing open source career archetypes - as a kind of planning tool. Tools such as the Skills For the Information Age take an enterprise-wide view of the IT skills needed to successfully run an IT organisation, and I'd like to see something like that developed to help support open source career development.
 
 ---
 
